@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webDown", "webDown\webDown.csproj", "{1277F694-F32F-45D1-B847-45E7DE840B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{C6E3A214-FC57-4777-8DDC-F27BEACC664D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo(WF)", "demo(WF)\demo(WF).csproj", "{13C37D9C-7EBD-4D8F-B058-155A177A2690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1277F694-F32F-45D1-B847-45E7DE840B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1277F694-F32F-45D1-B847-45E7DE840B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1277F694-F32F-45D1-B847-45E7DE840B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1277F694-F32F-45D1-B847-45E7DE840B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E3A214-FC57-4777-8DDC-F27BEACC664D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E3A214-FC57-4777-8DDC-F27BEACC664D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E3A214-FC57-4777-8DDC-F27BEACC664D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E3A214-FC57-4777-8DDC-F27BEACC664D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C37D9C-7EBD-4D8F-B058-155A177A2690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C37D9C-7EBD-4D8F-B058-155A177A2690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C37D9C-7EBD-4D8F-B058-155A177A2690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C37D9C-7EBD-4D8F-B058-155A177A2690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
